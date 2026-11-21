@@ -2,15 +2,14 @@ import os
 
 TEXT = "\n".join(
     [
-        "When the swarm settled on my wrist,",
-        "my grandfather stepped back",
-        "so the stillness was mine.",
-        "Ten minutes I held my arm",
-        "level while bees walked my knuckles",
-        "and rose without a sting.",
-        "Nothing in me wanted to stay.",
-        "That was how I knew",
-        "it was my hand.",
+        "At three the fare alert pinged",
+        "and I booked the one-way out,",
+        "packed one bag by the door,",
+        "and left the receipt open.",
+        "Twenty-four hours to cancel.",
+        "I hit cancel before dawn.",
+        "First time in six years",
+        "staying wasn't an accident.",
     ]
 )
 
