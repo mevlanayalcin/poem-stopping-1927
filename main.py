@@ -2,15 +2,16 @@ import os
 
 TEXT = "\n".join(
     [
-        "All week it cleared my mornings",
-        "so I could eat with my daughter.",
-        "Each day I checked its work",
-        "over her head",
-        "till she stopped talking.",
-        "Today I shut the lid,",
-        "let it run without me,",
-        "and stayed",
-        "until she started again.",
+        "My mother caught every cup",
+        "before I could spill it.",
+        "Now my son crosses the kitchen",
+        "with a full bowl,",
+        "both hands shaking.",
+        "Broth wets his thumb.",
+        "My knees lift to save it.",
+        "I stop. Sit back and stay.",
+        "He sets it down himself,",
+        "one drop gone.",
     ]
 )
 
