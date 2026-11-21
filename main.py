@@ -2,15 +2,15 @@ import os
 
 TEXT = "\n".join(
     [
-        "When voices rose, my father",
-        "took his keys and drove till dark.",
-        "Tonight my son slams his door.",
-        "My hand is already on my coat.",
-        "I stop. Leave it on the peg.",
-        "Sit on the bottom stair and stay.",
-        "Ten minutes.",
-        "His door opens",
-        "an inch.",
+        "All week it cleared my mornings",
+        "so I could eat with my daughter.",
+        "Each day I checked its work",
+        "over her head",
+        "till she stopped talking.",
+        "Today I shut the lid,",
+        "let it run without me,",
+        "and stayed",
+        "until she started again.",
     ]
 )
 
