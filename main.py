@@ -2,16 +2,16 @@ import os
 
 TEXT = "\n".join(
     [
-        "Halfway to the splinter",
-        "my son says stop.",
-        "My wrist remembers my father's thumb",
-        "pinning it till he finished.",
+        "Halfway up the stairs my mother",
+        "grips the rail and whispers",
+        "stop, don't lift me.",
         "",
-        "I set the tweezers down",
-        "and stay.",
-        "He studies his palm,",
-        "draws one breath,",
-        "and lays his hand back in mine.",
+        "I lower my hands",
+        "and stay one step below",
+        "while she finds her breath.",
+        "",
+        "Then she climbs the rest herself,",
+        "still the one who leads me up.",
     ]
 )
 
