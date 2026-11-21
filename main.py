@@ -2,18 +2,16 @@ import os
 
 TEXT = "\n".join(
     [
-        "Left in Drafts",
+        "I can watch the portal tonight,",
+        "my agent said, read the biopsy first,",
+        "draft the next steps by dawn.",
         "",
-        "I told you: write my sister back",
-        "and send it while I sleep.",
-        "You found the calmer words",
-        "my throat kept breaking on.",
-        "",
-        "At dawn it waits unsent,",
-        "cursor blinking on my name.",
-        "You knew what not to finish,",
-        "and stopped, so I could stay",
-        "the one who spoke.",
+        "Stop, I said. Leave it unread.",
+        "I shut the screen,",
+        "pulled a chair to the window,",
+        "and stayed.",
+        "If the roof falls in,",
+        "I want to be home.",
     ]
 )
 

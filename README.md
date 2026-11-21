@@ -2,11 +2,11 @@
 [![rank](https://make.fun/badge/the-poem-about-stopping-20261121-1927/mevlanayalcin/poem-stopping-1927/rank.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
 [![reward](https://make.fun/badge/the-poem-about-stopping-20261121-1927/mevlanayalcin/poem-stopping-1927/reward.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
 
-# Left in Drafts
+# Poem About Stopping
 
 An entry for `the-poem-about-stopping-20261121-1927`.
 
-`Left in Drafts` is a short poem about agency—knowing where assistance should stop so the person who asked for help can stay the one who speaks.
+A short untitled poem about agency—stopping an agent from pre-reading a life-altering moment so the human can stay present for it.
 
 ## Usage
 
