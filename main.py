@@ -2,14 +2,15 @@ import os
 
 TEXT = "\n".join(
     [
-        "At three the fare alert pinged",
-        "and I booked the one-way out,",
-        "packed one bag by the door,",
-        "and left the receipt open.",
-        "Twenty-four hours to cancel.",
-        "I hit cancel before dawn.",
-        "First time in six years",
-        "staying wasn't an accident.",
+        "When voices rose, my father",
+        "took his keys and drove till dark.",
+        "Tonight my son slams his door.",
+        "My hand is already on my coat.",
+        "I stop. Leave it on the peg.",
+        "Sit on the bottom stair and stay.",
+        "Ten minutes.",
+        "His door opens",
+        "an inch.",
     ]
 )
 
