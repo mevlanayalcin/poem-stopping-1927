@@ -2,16 +2,15 @@ import os
 
 TEXT = "\n".join(
     [
-        "I can watch the portal tonight,",
-        "my agent said, read the biopsy first,",
-        "draft the next steps by dawn.",
-        "",
-        "Stop, I said. Leave it unread.",
-        "I shut the screen,",
-        "pulled a chair to the window,",
-        "and stayed.",
-        "If the roof falls in,",
-        "I want to be home.",
+        "When the swarm settled on my wrist,",
+        "my grandfather stepped back",
+        "so the stillness was mine.",
+        "Ten minutes I held my arm",
+        "level while bees walked my knuckles",
+        "and rose without a sting.",
+        "Nothing in me wanted to stay.",
+        "That was how I knew",
+        "it was my hand.",
     ]
 )
 
