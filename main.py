@@ -2,16 +2,16 @@ import os
 
 TEXT = "\n".join(
     [
-        "My mother caught every cup",
-        "before I could spill it.",
-        "Now my son crosses the kitchen",
-        "with a full bowl,",
-        "both hands shaking.",
-        "Broth wets his thumb.",
-        "My knees lift to save it.",
-        "I stop. Sit back and stay.",
-        "He sets it down himself,",
-        "one drop gone.",
+        "Halfway to the splinter",
+        "my son says stop.",
+        "My wrist remembers my father's thumb",
+        "pinning it till he finished.",
+        "",
+        "I set the tweezers down",
+        "and stay.",
+        "He studies his palm,",
+        "draws one breath,",
+        "and lays his hand back in mine.",
     ]
 )
 
